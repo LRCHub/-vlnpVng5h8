@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Diver",
   "base_artist": "NICO Touches the Walls",
-  "createdAt": "2026-02-10T09:26:50.346113Z",
+  "createdAt": "2026-03-20T22:31:15.441456Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "NICO Touches the Walls",
       "has_synced": false,
       "path": "select/pl_01_Diver_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Diver",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/localdb_01_Diver_NICO_Touches_the_Walls.txt",
+      "repo_name": "-vlnpVng5h8"
     }
   ]
 }
